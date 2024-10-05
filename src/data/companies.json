@@ -1,0 +1,62 @@
+[
+  {
+    "name": "ey",
+    "path": "/companies/ey.svg",
+    "id": 1
+  },
+  {
+    "name": "airbnb",
+    "path": "/companies/airbnb.svg",
+    "id": 2
+  },
+  {
+    "name": "google",
+    "path": "/companies/google.svg",
+    "id": 3
+  },
+   {
+    "name": "netflix",
+    "path": "/companies/netflix.svg",
+    "id": 4
+  },
+  {
+    "name": "bmw",
+    "path": "/companies/bmw.svg",
+    "id": 5
+  },
+  {
+    "name": "cocacola",
+    "path": "/companies/cocacola.svg",
+    "id": 6
+  },
+  {
+    "name": "microsoft",
+    "path": "/companies/microsoft.svg",
+    "id": 7
+  },
+   {
+    "name": "flipkart",
+    "path": "/companies/flipkart.svg",
+    "id": 8
+  },
+  {
+    "name": "spotify",
+    "path": "/companies/spotify.svg",
+    "id": 9
+  },
+   {
+    "name": "mastercard",
+    "path": "/companies/mastercard.svg",
+    "id": 10
+  },
+   {
+    "name": "adidas",
+    "path": "/companies/adidas.svg",
+    "id": 11
+  },
+ {
+    "name": "apple",
+    "path": "/companies/apple.svg",
+    "id": 12
+  }
+]
